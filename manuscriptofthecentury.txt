@@ -6,3 +6,7 @@ METHODS
 
 here is a description of my methods.
 
+DISCUSSION
+Here, I discuss all my results.
+
+CONCLUSION
