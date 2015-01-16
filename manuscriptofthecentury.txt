@@ -4,4 +4,5 @@ more changes
 
 METHODS
 
+here is a description of my methods.
 
